@@ -1,0 +1,4 @@
+exifread
+PyPDF2
+Pillow
+python-docx
